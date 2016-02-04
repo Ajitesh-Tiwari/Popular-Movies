@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">About Us</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="tmdb">This product uses the TMDb API but is not endorsed or certified by TMDb.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="content_authority">com.ajitesh.android.popularmovies.app</string>
+
+    <!--PASTE THE API KEY HERE-->
+    <string name="API_KEY"></string>
+
+</resources>
