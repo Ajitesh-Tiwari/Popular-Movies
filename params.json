@@ -1,0 +1,6 @@
+{
+  "name": "Popular-movies",
+  "tagline": "Displays 'Most Popular' and 'Top Rated' movies along with details.",
+  "body": "### Project 1 and 2 - Udacity Android Nanodegree\r\n\r\n# Introduction\r\nAndroid application build using The Movie Database ( TMDb ) API and hosted on Google Play Store.\r\nDisplays 'Most Popular' and 'Top Rated' movies along with details ( Plot, Rating, Reviews, Trailers, etc. ).\r\nSupports Multi Pane tablet view and sharing of movies on other platforms. \r\n\r\n## Feature List\r\n* Review and watch trailer of movies from all around the world with ratings. \r\n* Get to know their release date and story line. \r\n* Movies are sorted as 'Most Popular' or 'Top Rated' by default to show you only the best. \r\n* Share these movies among your friends and save to your favorite list.\r\n* Multi pane support for tablets.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
