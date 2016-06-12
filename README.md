@@ -1,5 +1,7 @@
 # Popular Movies - Udacity Android Nanodegree
 
+[![Available On Playstore](https://ajitesh-tiwari.github.io/Extras/Google-Play-button.png)](https://play.google.com/store/apps/details?id=com.ajitesh.android.popularmovies)
+
 Note - Add the API-KEY in the file - strings.xml (app/src/main/res/values/strings.xml)
 
 ##Project 1 Overview
